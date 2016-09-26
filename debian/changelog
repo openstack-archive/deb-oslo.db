@@ -11,6 +11,10 @@ python-oslo.db (4.9.0-1) UNRELEASED; urgency=medium
   * .gitreview: Copy file from orig tar.
   * d/control: Align (Build-)Depends with upstream.
 
+  [ Ondřej Nový ]
+  * d/s/options: extend-diff-ignore of .gitreview
+  * d/control: Using OpenStack's Gerrit as VCS URLs.
+
  -- Corey Bryant <corey.bryant@canonical.com>  Mon, 08 Aug 2016 13:23:11 -0400
 
 python-oslo.db (4.7.0-2) unstable; urgency=medium
